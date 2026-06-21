@@ -14,7 +14,7 @@ This project uses TensorFlow and Neural Networks to predict employee attrition. 
 
 ---
 
-#### Tools and Libraries
+### Tools and Libraries
 
 * Python
 * VS Code
@@ -23,7 +23,7 @@ This project uses TensorFlow and Neural Networks to predict employee attrition. 
 
 ---
 
-#### Project Workflow
+### Project Workflow
 
 1. Data Loading and Exploration
 2. Data Preprocessing
@@ -36,7 +36,7 @@ This project uses TensorFlow and Neural Networks to predict employee attrition. 
 
 ---
 
-#### Best Model Hyperparameters
+### Best Model Hyperparameters
 
 | Hyperparameter    | Value               |
 | ----------------- | ------------------- |
@@ -51,7 +51,7 @@ This project uses TensorFlow and Neural Networks to predict employee attrition. 
 | Accuracy          | 0.8941              |
 
 
-#### Training Curves
+### Training Curves
 
 The graph below shows the training accuracy and loss of the best-performing model.
 
@@ -61,13 +61,13 @@ The graph below shows the training accuracy and loss of the best-performing mode
 
 ---
 
-#### Results
+### Results
 
 Several neural network configurations were tested. The highest accuracy achieved was 89.41% using a Sigmoid activation function, SGD optimizer, learning rate of 0.01, batch size of 32, and 100 training epochs.
 
 ---
 
-##### Author
+#### Author
 
 Zainularab Zarabi
 
