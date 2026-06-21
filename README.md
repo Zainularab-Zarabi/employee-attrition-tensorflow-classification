@@ -53,7 +53,7 @@ This project uses TensorFlow and Neural Networks to predict employee attrition. 
 
 The graph below shows the training accuracy and loss of the best-performing model.
 
-![Training Curves](images/training_curves.png)
+![Training Curves](Images/ML_5_2.png)
 
 ---
 
