@@ -1,6 +1,5 @@
 # Employee Attrition Classification using TensorFlow
 
-## Machine Learning 2 - Week 6 Lab
 
 ### Project Overview
 
@@ -18,13 +17,7 @@ This project uses TensorFlow and Neural Networks to predict employee attrition. 
 ## Tools and Libraries
 
 * Python
-* TensorFlow
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-Learn
-* Jupyter Notebook
+* VS Code
 
 ---
 
@@ -55,11 +48,6 @@ This project uses TensorFlow and Neural Networks to predict employee attrition. 
 | Batch Size        | 32                  |
 | Accuracy          | 0.8941              |
 
-### Best Model Hyperparameters Table
-
-![Best Model Hyperparameters](images/best_model_table.png)
-
----
 
 ## Training Curves
 
@@ -75,20 +63,9 @@ Several neural network configurations were tested. The highest accuracy achieved
 
 ---
 
-## Repository Files
-
-* Deep_Learning_with_Tensorflow.ipynb
-* employee_attrition.csv
-* README.md
-* images/best_model_table.png
-* images/training_curves.png
-
----
-
 ## Author
 
 Zainularab Zarabi
 
-Machine Learning 2
+Machine Learning 
 
-Algonquin College
