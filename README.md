@@ -18,6 +18,7 @@ This project uses TensorFlow and Neural Networks to predict employee attrition. 
 
 * Python
 * VS Code
+* Jupyter Notebook
 
 ---
 
